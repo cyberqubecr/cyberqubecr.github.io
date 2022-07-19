@@ -1,18 +1,18 @@
 ---
-title: Security Awareness
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: No articles for now
+subtitle: -Null-
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Articles
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: No articles for now
+  subtitle: -Null-
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Nothing to show for now. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: July 2022
+- Client: ---
+- Category: -Null-
 

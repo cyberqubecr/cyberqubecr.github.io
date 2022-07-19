@@ -18,60 +18,58 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Bringing security to your assets"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Pentest"
+        desc: "Simulated cyberattacks on the company assets in order to detect possible vulnerabilities."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+      - title: "Vulnerability scanning"
+        desc: "Report with all the vulnerabilities found in the company."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "SOC installment"
+        desc: "With the use of the SaaS technology we are able to deliver the best installation candidates for your company."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Standard review"
+        desc: "We focus our information security review on the ISO 27000 standard to detect possible issues related with the current requirements."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Security awareness"
+        desc: "Security awareness is one of the most important topics related with cyber security, most of successful attacks start with the human factor. This is why is necessary for the employees to be aware of the issues related with cyber security."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Data Loss Prevention"
+        desc: "Data is one of the most important asset for every company. The data must be protected when an attack is in place by threat actors."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Cyber security Audits"
+        desc: "Report of an overall security in a company."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "List of articles published by our team."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The Beginning"
+        year: "2022"
+        desc: "Cyber cube started its operation in 2022! One of the first cyber security companies in Costa Rica."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+      
         # you can enforce the alignment
-        align: right
+        #align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Cyber Qube"
+    body: "Working hard to be the best cyber security company to protect everybody from threat actors."
     section: about
 
   clients:
@@ -94,12 +92,12 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: " "
+    subtext:  
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Luis Ledezma"
+        role: "CEO"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,30 +106,21 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Emanuelle Jimenez"
+        role: "CEO"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/emanlui
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.instagram.com/emanuellejimenezs/
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/emanuelle-jiménez-sancho/
             icon: fab fa-linkedin-in
+      
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: " "
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
