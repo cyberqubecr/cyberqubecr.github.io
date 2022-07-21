@@ -23,25 +23,22 @@ en: &DEFAULT_EN
     list:
       - title: "Pentest"
         desc: "Simulated cyberattacks on the company assets in order to detect possible vulnerabilities."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Vulnerability scanning"
         desc: "Report with all the vulnerabilities found in the company."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-satellite-dish #find more at https://fontawesome.com/icons
       - title: "SOC installment"
         desc: "With the use of the SaaS technology we are able to deliver the best installation candidates for your company."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-users
       - title: "Standard review"
         desc: "We focus our information security review on the ISO 27000 standard to detect possible issues related with the current requirements."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-chart-line #find more at https://fontawesome.com/icons
       - title: "Security awareness"
         desc: "Security awareness is one of the most important topics related with cyber security, most of successful attacks start with the human factor. This is why is necessary for the employees to be aware of the issues related with cyber security."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-user-shield
       - title: "Data Loss Prevention"
         desc: "Data is one of the most important asset for every company. The data must be protected when an attack is in place by threat actors."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Cyber security Audits"
-        desc: "Report of an overall security in a company."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-database #find more at https://fontawesome.com/icons
       
   portfolio:
     title: "Portfolio"
@@ -77,18 +74,9 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "Neural Coders"
+        url: https://neuralcoders.com
+        logo: assets/img/clients/neuralcoders.png
 
   team:
     title: "OUR AMAZING TEAM"

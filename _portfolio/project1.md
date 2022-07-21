@@ -1,13 +1,13 @@
 ---
 title: No articles for now
 subtitle: -Null-
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/portafolio-1.jpg
 alt: Articles
 
 caption:
   title: No articles for now
   subtitle: -Null-
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/portafolio-1.jpg
 ---
 Nothing to show for now. 
 
